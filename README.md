@@ -16,7 +16,7 @@
     <img align="center" alt="html5" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
 </div><br/>
 
-    Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
+- Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
 
 ## 🚀 - ultimos projetos:
 - [Criando um CRUD console - C#](https://github.com/ThiagoCh12/CRUD-EM-CONSOLE/blob/main/ConsoleApp1/Program.cs)<br/>
