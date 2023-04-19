@@ -17,3 +17,4 @@
 
 ## 🚀 - ultimos projetos:
 - [Criando um CRUD console - C#](https://github.com/ThiagoCh12/CRUD-EM-CONSOLE/blob/main/ConsoleApp1/Program.cs)<br/>
+<img width="1920" alt="demon-slayer-kimetsu-no-yaiba-silhouette-minimal-art-moon-3840x2160-8306" src="https://user-images.githubusercontent.com/115367029/233213561-8cbfa356-80e3-48ec-acd2-a36a4361b197.png">
