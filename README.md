@@ -10,11 +10,8 @@
 
 ## 🌐 - Tecnologias que eu uso no meu dia-a-dia:
 
-<div style="display: inline_block"><br/>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-    <img align="center" alt="html5" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-    <img align="center" alt="html5" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
-</div><br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoCh12&hide_compact=true)](https://github.com/ThiagoCh12/github-readme-stats)
+
 
 - Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
 
