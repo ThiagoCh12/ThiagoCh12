@@ -13,7 +13,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoCh12&hide_compact=true)](https://github.com/ThiagoCh12/github-readme-stats)
 
 
-- Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
+- Apaixonado por tecnologia
 
 ## 🚀 - ultimos projetos:
 - [Sistema de atas utilizando sqlite3 - Python](https://github.com/ThiagoCh12/Sistema_Ata.py)<br/>
