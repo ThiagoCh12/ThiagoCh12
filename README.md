@@ -1,5 +1,5 @@
 # Thiago Chagas 
-- ⛄ Olá, bem vindo(a) ao meu perfil, me chamo Thiago Chagas tenho 17 anos e sou estudante em Técnico em Desenvolvimentos de Sistemas
+- ⛄ Olá, bem vindo(a) ao meu perfil, me chamo Thiago Chagas tenho 17 anos e sou estudante Técnico em Desenvolvimentos de Sistemas
 - 🌱 Estou aprimorando meus conhecimentos em .Net e C#
 
 
