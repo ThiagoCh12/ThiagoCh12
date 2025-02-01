@@ -1,7 +1,9 @@
 # Thiago Chagas 
-- ⛄ Olá, bem vindo(a) ao meu perfil, me chamo Thiago Chagas tenho 17 anos e sou estudante Técnico em Desenvolvimentos de Sistemas
-- 🌱 Estou aprimorando meus conhecimentos em .Net e C#
-
+- ⛄ Olá, bem vindo(a) ao meu perfil, me chamo Thiago Chagas, tenho 19 anos e sou apaixonado por tecnologia. 
+- 🌱 Cada vez mais venho buscando aprimorar minhas habilidades e obter mais conhecimento nesse vasto mundo de T.I
+- 
+- Tecnico em desenvolvimento de sistamas
+- Cursando engenharia de software 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thiago-chagas-5213b8252/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/thiago_ch2)
@@ -16,8 +18,7 @@
 
 
 
-- Apaixonado por tecnologia
+
 
 ## 🚀 - ultimos projetos:
-- [Sistema boteco - C# and .NET]([https://github.com/ThiagoCh12/app_boteco])<br/>
-<img width="1920" alt="demon-slayer-kimetsu-no-yaiba-silhouette-minimal-art-moon-3840x2160-8306" src="https://user-images.githubusercontent.com/115367029/233213561-8cbfa356-80e3-48ec-acd2-a36a4361b197.png">
+
