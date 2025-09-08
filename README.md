@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Thiago Deita
+# 👋 Hello, I'm Thiago!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-chagas-5213b8252/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/ThiagoCh12)
