@@ -1,8 +1,8 @@
 # 👋 Olá, eu sou Thiago Deita
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-linkedin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-chagas-5213b8252/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/ThiagoCh12)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:thiagocampanholi11@gmail.com)
 
 Sou estudante de **Engenharia de Software**, com interesse em **desenvolvimento Java, sistemas web, integração de sistemas e aplicações práticas para negócios familiares**. Busco sempre unir **tecnologia e soluções reais** para problemas do dia a dia.
 
@@ -53,7 +53,7 @@ Sou estudante de **Engenharia de Software**, com interesse em **desenvolvimento 
 
 - LinkedIn: [Seu Perfil](https://www.linkedin.com/in/thiago-chagas-5213b8252)  
 - GitHub: [ThiagoCh12](https://github.com/ThiagoCh12)  
-- Email: thiagocampanholi12@gmail.com
+- Email: thiagocampanholi11@gmail.com
 
 ---
 
