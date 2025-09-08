@@ -51,7 +51,7 @@ Sou estudante de **Engenharia de Software**, com interesse em **desenvolvimento 
 
 ## 📫 Contato
 
-- LinkedIn: [Seu Perfil](https://www.linkedin.com/in/thiago-chagas-5213b8252)  
+- LinkedIn: [Thiago Chagas](https://www.linkedin.com/in/thiago-chagas-5213b8252)  
 - GitHub: [ThiagoCh12](https://github.com/ThiagoCh12)  
 - Email: thiagocampanholi11@gmail.com
 
