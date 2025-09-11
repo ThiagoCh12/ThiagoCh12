@@ -24,7 +24,7 @@ Sou estudante de **Engenharia de Software**, com interesse em **desenvolvimento 
 - **Banco de dados:** MySQL
 - **Ferramentas:** Git, GitHub, Eclipse, VS Code  
 - **Conceitos:** Encapsulamento, Orientação a Objetos, Integração de Sistemas, API REST  
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoCh12&layout=compact&theme=radical)
 ---
 
 ## 📂 Projetos Destaque
