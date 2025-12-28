@@ -10,10 +10,10 @@ Estudante de **Engenharia de Software** (3º/8º semestre) com foco em **desenvo
 
 ## 💼 Experiência
 
-**Estagiário de Desenvolvimento** | [Nome da Empresa] | Atual
+**Estagiário de Desenvolvimento** | Mextech Tecnologia Industrial  | Atual
 - Desenvolvimento de dashboards profissionais para monitoramento de usinas elétricas
 - Integração de sistemas e APIs para automação de processos
-- Stack: Python, [frameworks que você usa], PostgreSQL, Docker
+- Stack: Python, Django, html, css, javascript, PostgreSQL, Docker
 
 ---
 
@@ -21,7 +21,7 @@ Estudante de **Engenharia de Software** (3º/8º semestre) com foco em **desenvo
 
 **Backend:** Python, Java, C#  
 **Banco de Dados:** PostgreSQL, MySQL  
-**Ferramentas:** Git/GitHub, Docker, VS Code  
+**Ferramentas:** Git, Docker, VS Code  
 **Conceitos:** POO, APIs RESTful, Integração de Sistemas, Clean Code
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoCh12&layout=compact&theme=radical)
 
