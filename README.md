@@ -23,7 +23,7 @@ Estudante de **Engenharia de Software** (3º/8º semestre) com foco em **desenvo
 **Banco de Dados:** PostgreSQL, MySQL  
 **Ferramentas:** Git, Docker, VS Code  
 **Conceitos:** POO, APIs RESTful, Integração de Sistemas, Clean Code
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoCh12&layout=compact&theme=radical)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoCh12&layout=compact&theme=radical)]
 
 ---
 
