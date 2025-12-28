@@ -23,7 +23,6 @@ Estudante de **Engenharia de Software** (3º/8º semestre) com foco em **desenvo
 **Banco de Dados:** PostgreSQL, MySQL  
 **Ferramentas:** Git, Docker, VS Code  
 **Conceitos:** POO, APIs RESTful, Integração de Sistemas, Clean Code
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoCh12&layout=compact&theme=radical)]
 
 ---
 
@@ -33,9 +32,4 @@ Estudante de **Engenharia de Software** (3º/8º semestre) com foco em **desenvo
 - LinkedIn: [Thiago Chagas](https://www.linkedin.com/in/thiago-chagas-5213b8252)  
 - GitHub: [ThiagoCh12](https://github.com/ThiagoCh12)  
 - Email: thiagocampanholi11@gmail.com
-
-## 📈 Estatísticas do GitHub
-
-![Thiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThiagoCh12&show_icons=true&theme=radical)
-
 ---
