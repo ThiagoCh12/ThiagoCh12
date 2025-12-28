@@ -27,11 +27,6 @@ Estudante de **Engenharia de Software** (3º/8º semestre) com foco em **desenvo
 
 ---
 
-## 🚀 Projetos em Destaque
-
-[Aqui você pode adicionar 2-3 projetos principais quando tiver autorização]
-
----
 
 ## 📫 Contato
 
