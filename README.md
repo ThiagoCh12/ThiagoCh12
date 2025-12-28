@@ -10,9 +10,8 @@ Sou estudante de **Engenharia de Software**, com foco em **desenvolvimento, sist
 
 ## 💼 Sobre mim
 
-- 📚 Estudante de Engenharia de Software  
-- 💻 Apaixonado por **tecnologia**  
-- 🌱 Atualmente aprendendo **Java, Python, desenvolvimento web e automoções com tecnologias avançadas** como integração de sistemas, APIs REST FULL e automações inteligentes  
+- 📚 3/8 Engenharia de Software
+- 🧑‍💻 Desenvolvedor Fullstack Python  
 - 🏢 Experiência prática em projetos pessoais, buscando otimizar processos através da tecnologia  
 - 🎯 Foco em projetos que gerem **impacto real e aprendizado contínuo**
 
@@ -22,20 +21,9 @@ Sou estudante de **Engenharia de Software**, com foco em **desenvolvimento, sist
 
 - **Linguagens:** Java, Python, C#,   
 - **Banco de dados:** MySQL, PostgreSql
-- **Ferramentas:** Git, GitHub, IntelliJ, VS Code  
+- **Ferramentas:** Git, GitHu, VS Code, Docker
 - **Conceitos:** Encapsulamento, Orientação a Objetos, Integração de Sistemas, API REST FULL
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoCh12&layout=compact&theme=radical)
----
-
-## 📂 Projetos Destaque
-
-### 1️⃣ Cadastro de Conta Bancária
-- Sistema de console em Java com **encapsulamento, depósito, saque e menu interativo**  
-- [Repositório](https://github.com/ThiagoCh12/cadastro-conta-bancaria)
-- 
-### 2️⃣ app lava car
-- Sistema com API Rest Full voltado para gerenciamento e cadastros de clientes, carros e agendamentos de um lava car.  
-- [Repositório](https://github.com/ThiagoCh12/api_lava_car)
 ---
 
 ## 🌱 Interesses
