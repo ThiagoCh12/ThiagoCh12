@@ -19,10 +19,11 @@ Estudante de **Engenharia de Software** (3º/8º semestre) com foco em **desenvo
 
 ## 🛠 Stack Técnica
 
-**Backend:** Python, Java, C#  
+**Backend:** Python, Java, C#
+**Frontend:** HTML, CSS, JavaScript
 **Banco de Dados:** PostgreSQL, MySQL  
 **Ferramentas:** Git, Docker, VS Code  
-**Conceitos:** POO, APIs RESTful, Integração de Sistemas, Clean Code
+**Conceitos:** POO, Integração de Sistemas, Clean Code
 
 ---
 
