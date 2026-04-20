@@ -13,20 +13,20 @@ Sistemas críticos para usinas hidrelétricas e solares de grande porte.
 ---
 
 ## 🏭 Em Produção Hoje
-- **EPM-MITSAT** — sincronização de dados hidrológicos da UHE Juruena 
-  para a ANA (Agência Nacional de Águas), rodando 24/7 via systemd
-- **ThingsBoard-EPM-Sync** — telemetria industrial em tempo real
+- **[EPM-MITSAT](https://github.com/ThiagoCh12/epm-mitsat)** — sincronização de dados hidrológicos da UHE Juruena 
+  para a plataforma MITSAT, rodando 24/7
+- **[ThingsBoard-EPM-Sync](https://github.com/ThiagoCh12/thingsboard-epm-sync)** — telemetria industrial em tempo real
 
 ## 🤖 AI & Produtos
-- **Extrator de Faturas** — pipeline OCR + Gemini + PostgreSQL para 
+- **[Extrator de Faturas]** — pipeline de pré-processamento de PDFs/imagens + Gemini + PostgreSQL para 
   processamento inteligente de faturas de energia
-- **Estética Flow** — sistema de agendamento via AI para clínicas, 
-  FastAPI + webhooks + fallback de modelos
+- **[Estética Flow]** — sistema de agendamento via AI para clínicas, 
+  FastAPI + PostgreSQL+ webhooks + fallback de modelos
 
 ## 🔬 Em Desenvolvimento
 - **SkinMap** — plataforma clínica com RAG + fine-tuning para 
   protocolos dermatológicos baseados em evidências
 
 ## 🛠 Stack
-Python · FastAPI · PostgreSQL · Docker · SQLAlchemy · 
-Gemini/LLM · OCR · ThingsBoard · Elipse EPM · Linux · Proxmox
+Python · FastAPI · Django · JavaScript · PostgreSQL · Docker · SQLAlchemy · 
+LLM · OCR · ThingsBoard · Elipse EPM · Linux · Proxmox · WireGuard
